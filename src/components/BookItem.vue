@@ -9,6 +9,6 @@ export default {
   props: ['book']
 }
 </script>
-<style lang="scss" scoped>
+<style scoped>
   li {display: block; margin: 0 10px;}
 </style>
